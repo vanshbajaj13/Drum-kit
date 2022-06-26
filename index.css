@@ -34,42 +34,42 @@ header {
   transition-duration: 100ms;
 }
 
-.items:hover{
+.items:hover {
   transform: scale(1.3);
 }
 
 .item1 {
-  background-image: url(/ud2/images/crash.png);
+  background-image: url("images/crash.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
 .item2 {
-  background-image: url(/ud2/images/kick.png);
+  background-image: url("images/kick.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
 .item3 {
-  background-image: url(/ud2/images/snare.png);
+  background-image: url("images/snare.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
 .item4 {
-  background-image: url(/ud2/images/tom1.png);
+  background-image: url("images/tom1.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
 .item5 {
-  background-image: url(/ud2/images/tom2.png);
+  background-image: url("images/tom2.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
 .item6 {
-  background-image: url(/ud2/images/tom3.png);
+  background-image: url("images/tom3.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
 .item7 {
-  background-image: url(/ud2/images/tom4.png);
+  background-image: url("images/tom4.png");
   background-repeat: no-repeat;
   background-size: contain;
 }

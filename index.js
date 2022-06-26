@@ -39,37 +39,37 @@ function play(key) {
   var aud;
   switch (key) {
     case "w":
-      aud = new Audio("/ud2/sounds/crash.mp3");
+      aud = new Audio("sounds/crash.mp3");
       aud.play();
       break;
 
     case "a":
-      aud = new Audio("/ud2/sounds/tom-3.mp3");
+      aud = new Audio("sounds/tom-3.mp3");
       aud.play();
       break;
 
     case "s":
-      aud = new Audio("/ud2/sounds/kick-bass.mp3");
+      aud = new Audio("sounds/kick-bass.mp3");
       aud.play();
       break;
 
     case "d":
-      aud = new Audio("/ud2/sounds/tom-1.mp3");
+      aud = new Audio("sounds/tom-1.mp3");
       aud.play();
       break;
 
     case "j":
-      aud = new Audio("/ud2/sounds/tom-2.mp3");
+      aud = new Audio("sounds/tom-2.mp3");
       aud.play();
       break;
 
     case "k":
-      aud = new Audio("/ud2/sounds/snare.mp3");
+      aud = new Audio("sounds/snare.mp3");
       aud.play();
       break;
 
     case "l":
-      aud = new Audio("/ud2/sounds/tom-4.mp3");
+      aud = new Audio("sounds/tom-4.mp3");
       aud.play();
       break;
 
