@@ -39,12 +39,12 @@ header {
 }
 
 .item1 {
-  background-image: url(/ud2/images/crash.png);
+  background-image: url(images/crash.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
 .item2 {
-  background-image: url(/ud2/images/kick.png);
+  background-image: url("images/kick.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
